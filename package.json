@@ -1,0 +1,11 @@
+{
+  "name": "site-cecilia",
+  "version": "1.0.0",
+  "description": "site cv",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./site_c/main.scss:./site_c/style.css"
+  },
+  "author": "Cécilia Fornès-Guechi",
+  "license": "ISC"
+}
