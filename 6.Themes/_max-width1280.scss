@@ -1,0 +1,21 @@
+@media all and (max-width: 1280px) {
+
+  p, h2, h3, em, li, ul, nav, form, input {
+    margin: 10px;
+  }
+
+  .lecteur_spotify {
+    flex-direction: column;
+    width: 25%;
+    height: 500px;
+  }
+
+  .photodemoi {
+    margin-left: 10px;
+  }
+
+  .menu{
+    font-size: 1.5em;
+    width: auto;
+  }
+}

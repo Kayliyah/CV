@@ -1,0 +1,17 @@
+$menu-color: #7BE495;
+$p-header-color: #205072;
+$subtitle-color: #329D9C;
+$form-titleshadow: #7BE495;
+
+.title{
+  font-family: 'lemon_milkbold_italic', 'Times New Roman', 'Arial', serif;;
+  font-size: 150%;
+  text-shadow: .45rem .45rem $form-titleshadow;
+  color: white;
+  background-color: $p-header-color;
+  width: 100%;
+  margin-top: -40px;
+  height: 100px;
+  z-index: +1;
+  position: relative;
+}

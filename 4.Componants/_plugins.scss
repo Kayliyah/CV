@@ -1,0 +1,21 @@
+.lecteur_wattpad {
+  margin: 10px 50px 10px 50px;
+  width: 90%;
+  height: 280px;
+}
+
+.lecteur_spotify {
+  float: right;
+  flex-direction: column;
+  width: 25%;
+  height: 500px;
+  text-align: center;
+  top: -100px;
+  z-index: -1;
+  padding-top: 10%;
+  vertical-align: top;
+  display: flex;
+  margin: -33.5px -8px -50px 50px;
+  position: relative;
+  z-index: +1;
+}
